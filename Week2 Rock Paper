@@ -1,4 +1,5 @@
 # PYTHON
+# codeskultor.org 
 # Rock-paper-scissors-lizard-Spock template
 
 
@@ -95,7 +96,7 @@ rpsls("scissors")
 
 
 // JAVASCRIPT
-
+// Firefox Code Editor
 function getRandomInt(max) {
   return Math.floor(Math.random() * Math.floor(max));
 }
